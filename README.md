@@ -2,8 +2,6 @@
 
 A .NET console application that generates TypeScript interfaces from C# contract classes in ASP.NET projects.
 
-## Features
-
 - Converts C# classes to TypeScript interfaces
 - Handles nullable types
 - Generates proper import statements for cross-referenced types
