@@ -1,3 +1,5 @@
+.svn/
+.svnignore
 # .NET build outputs
 bin/
 obj/
